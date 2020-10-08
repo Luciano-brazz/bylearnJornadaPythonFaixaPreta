@@ -1,7 +1,0 @@
-nome = input('digite o seu nome: ')
-idade = int('digite sua idade: ')
-if idade >= 18
-    print('olá {} sua idade é de {} e você ja pode tira a sua carteira de motorista'.format(nome, idade))
-else:
-    print('olá {} sua idade é de {} e você não pode tira a sua carteira de motorista'.format(nome, idade))
-    
